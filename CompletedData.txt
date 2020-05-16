@@ -1,0 +1,18 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Retail Invoice		www.mcdonaldsindia.net
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+		Date: 31/10/2017
+MCDONALD'S
+Lady Jamshedji Rd, Mahim(West), Mumbai-400016
+INV#009201200000164	UID#009201217000279
+
+CUSTOMER NAME :  
+
+Ordered Meals:		Price:	Quantity:
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+SubTotal :  0
+GST 18%(SGST 9% + CGST 9%) :  0.0
+Total :  0.0
+-- THANK YOU! VISIT AGAIN --
