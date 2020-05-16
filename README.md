@@ -1,5 +1,5 @@
 # McDonalds-receipt-generator
-A real-time bill generator made using Java applet which converts the bill to notepad in a printable format.
+A real-time receipt generator made using Java applet which generates the receipt and converts it into text file in a printable format.
 
 To execute:
 1. Open the location of the folder in terminal
